@@ -1,0 +1,1 @@
+COPY egresados_link FROM 'C:\Users\fgreco\Desktop\egresados_con_link.csv' DELIMITER ';' CSV header ENCODING 'SQL_ASCII';

@@ -1,0 +1,1 @@
+start "" http://enviarcorreo.com:8080/scriptCorreo-certificados.php & timeout 30 & taskkill /im opera.exe
