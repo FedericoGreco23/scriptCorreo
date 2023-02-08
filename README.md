@@ -1,4 +1,6 @@
-﻿PROGRAMAS PREVIOS A INSTALAR:
+﻿Ult. Actualizacion: Enero 2023
+
+PROGRAMAS PREVIOS A INSTALAR:
 
 -Se necesita la carpeta de PHPMailer-6.6.0 (En \\164.73.100.4\DGPLAN-publico\todos\Fede ya esta la carpeta, o se puede buscar en internet y descargar desde github)
 -Se necesita PHP 7.4.26 (Buscar en web)(Viene con wamp tambien)
